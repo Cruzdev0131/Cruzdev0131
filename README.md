@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello there! I'm Adolfo
+## 🚀 Future Software Engineer (e.g., Frontend, Backend, Full Stack, DataBase, Cloud)
 
-<!--
-**Cruzdev0131/Cruzdev0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about programartion commpetitive.
+I am currently working on B2Park in Dev team liker Frontend Developer.
 
-Here are some ideas to get you started:
+### 💻 Technologies and Tools
+Here you can list the logos (images) of the technologies you use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect With Me
+* [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+* [Twitter / X](https://twitter.com/yourprofile)
+* [Your Website/Blog](https://yourwebsite.com)
+
+---
+
+### 🔥 My Recent GitHub Activity
+[Here you can let GitHub automatically display your recent contributions, or add "Widgets" like the ones explained below.]
